@@ -1,0 +1,3 @@
+﻿Please download these files from http://www.cs.toronto.edu/~kriz/cifar.html and put them in this folder.
+
+"CIFAR-10 binary version (suitable for C programs)"
